@@ -1,7 +1,7 @@
 # Sameed E-Commerce Platform — AWS Infrastructure with Terraform
 
 <p align="center">
-  <img src="assets/website-preview.jpg" alt="Sameed E-Commerce Platform website preview" width="900">
+   <img src="./website-overview.jpg" alt="Sameed E-Commerce Platform website preview" width="900">
 </p>
 
 <p align="center">
